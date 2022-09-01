@@ -1,1 +1,1 @@
-create directory
+life is a series
