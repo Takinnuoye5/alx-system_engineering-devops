@@ -1,1 +1,1 @@
-print all groups
+script changes the owner
