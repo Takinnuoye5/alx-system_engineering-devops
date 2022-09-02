@@ -1,1 +1,1 @@
-mode of file
+sets of mode of the file
