@@ -1,1 +1,1 @@
-sets of mode of the file
+execute permission to all subdirectories of the current directory
