@@ -20,3 +20,6 @@ twetyone
 twenttwo
 last
 casks
+gifs
+acrostic
+biggest
